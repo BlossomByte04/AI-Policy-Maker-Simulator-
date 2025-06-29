@@ -1,0 +1,11 @@
+streamlit
+ollama
+faiss-cpu
+numpy
+sentence-transformers
+langchain
+langchain_community
+PyMuPDF
+pdfminer.six
+easyocr
+Pypdf 
